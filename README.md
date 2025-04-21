@@ -24,10 +24,7 @@ Real-world web design project
 Boost your frontend development skills
 
 
-#
-🔔 Don't forget to like, comment, and subscribe for more amazing web development tutorials!
-
-📢 Follow us for updates:
+# 📢 Follow us for updates:
 Facebook: https://www.instagram.com/petersawmtalks/
 Instagram: https://www.instagram.com/petersawmtalks/
 
