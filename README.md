@@ -8,7 +8,7 @@ Want to build a modern and responsive Tour & Travel Website? In this step-by-ste
 
 Facebook: https://www.instagram.com/petersawmtalks/
 
-Instagram: https://www.instagram.com/petersawmtalks/
+linkedin: https://www.linkedin.com/in/peter-sawm-06932b254/
 
 ![99-1](https://github.com/user-attachments/assets/3c1a24e3-582f-4872-99c7-e5e45108d390)
 
